@@ -1,4 +1,4 @@
-
+library(tidyverse)
 
 library('usethis')
 eduse_git()
